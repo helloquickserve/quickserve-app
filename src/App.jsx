@@ -1,4 +1,3 @@
-\
 import React from "react";
 import { Check, QrCode, ShoppingCart, CreditCard, Smartphone, Receipt, LayoutDashboard, TimerReset, Truck, X, ArrowRight } from "lucide-react";
 import { QRCodeSVG } from "qrcode.react";
